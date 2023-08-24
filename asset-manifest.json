@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Even_Odd_App/static/css/main.889e959a.css",
+    "main.js": "/Even_Odd_App/static/js/main.cd324765.js",
+    "static/js/787.9ce9f379.chunk.js": "/Even_Odd_App/static/js/787.9ce9f379.chunk.js",
+    "index.html": "/Even_Odd_App/index.html",
+    "main.889e959a.css.map": "/Even_Odd_App/static/css/main.889e959a.css.map",
+    "main.cd324765.js.map": "/Even_Odd_App/static/js/main.cd324765.js.map",
+    "787.9ce9f379.chunk.js.map": "/Even_Odd_App/static/js/787.9ce9f379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.889e959a.css",
+    "static/js/main.cd324765.js"
+  ]
+}
